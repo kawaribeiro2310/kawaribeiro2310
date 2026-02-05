@@ -30,4 +30,4 @@ Atualmente foco meus estudos em Lógica de Programação, Python e Redes de Comp
 <div display="inline-block">
   <img width="40px" style="padding-right: 10px;" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
   <img width="40px" style="padding-right: 10px;" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img width="40px" style="padding-right: 10px;" title="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  <img width="40px" style="padding-right: 10px;" title="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
