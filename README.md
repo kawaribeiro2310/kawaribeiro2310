@@ -2,7 +2,9 @@
 
 **`Desenvolvedor Junior`**
 
-Me chamo Kawã Ribeiro Alves, tenho 18 anos e sou natural da Paraíba. Concluí o ensino médio em 2025 na Escola Severiano Pedro Do Nascimento. Sou apaixonado por programação, me dedico a qualquer projeto e meu objetivo é ingressar no curso de Cibersegurança.
+Me chamo Kawã Ribeiro Alves, tenho 18 anos e sou natural da Paraíba. Concluí o ensino médio em 2025 na Escola Severiano Pedro Do Nascimento. Sou apaixonado por programação, me dedico a qualquer projeto e Atualmente cursando Cibersegurança na Unopar (Bolsista ProUni), estou em transição de carreira para a área de Tecnologia da Informação. Com experiência em atendimento ao cliente na Orbitall, desenvolvi habilidades sólidas em resolução de problemas sob pressão e comunicação assertiva.
+
+Atualmente foco meus estudos em Lógica de Programação, Python e Redes de Computadores. Busco minha primeira oportunidade como Estagiário ou Júnior em Cibersegurança ou Desenvolvimento, onde eu possa aplicar meu pensamento analítico e sede de aprendizado para proteger dados e otimizar processos.
 
 <p align="left">
     <a href="https://github.com/kawabujao?tab=repositories&sort=stargazers">
