@@ -50,7 +50,7 @@ Aqui estão algumas das tecnologias que utilizo e venho estudando para construir
 ### 🤝 Conecte-se comigo
 
 <p align="left">
-  <a href="https://linkedin.com/in/SEU_USUARIO_AQUI" target="_blank">
+  <a href="https://www.linkedin.com/in/kaw%C3%A3-ribeiro-alves-5a9bbb364" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </p>
