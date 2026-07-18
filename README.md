@@ -1,4 +1,4 @@
-# ⚡ Olá, eu sou o Kawã Ribeiro! 
+#  Olá, eu sou o Kawã Ribeiro! 
 
 <p align="left">
   <a href="https://github.com/kawabujao?tab=repositories&sort=stargazers">
