@@ -13,7 +13,7 @@
 
 ### 🚀 Sobre Mim
 
-Formado no ensino médio em 2025 e atualmente cursando **Cybersecurity** na Universidade Norte do Paraná. Estou em transição de carreira para a área de Tecnologia, unindo minha bagagem de comunicação assertiva e resolução de problemas sob pressão (adquirida no atendimento ao cliente) com a paixão por defesa cibernética e desenvolvimento.
+Formado no ensino médio em 2025 e atualmente cursando **Cybersecurity** na Universidade Norte do Paraná. com a paixão por defesa cibernética e desenvolvimento.
 
 * 🛡️ **Foco Atual:** Cibersegurança, Infraestrutura de Redes e Lógica de Programação.
 * 🔍 **Objetivo:** Primeira oportunidade como Estagiário ou Desenvolvedor/Analista Júnior em Segurança da Informação ou Dev.
