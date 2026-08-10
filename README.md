@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- BANNER -->
-  <img src="https://cdn.discordapp.com/attachments/1510022770833100861/1536503254836314132/7b871cee4ff324b9cc17ea028b4074ce.png?ex=6a7ba3aa&is=6a7a522a&hm=e054bb57a5741fc5d6b60bee4e08debdbef97a3727e349f5908447182b389a4e&" alt="Kawã Ribeiro Banner" width="100%" style="border-radius: 12px; margin-bottom: 15px;" />
+  <img src="https://cdn.discordapp.com/attachments/1510022770833100861/1536504124919517284/cd346b5f568400dda9975241c0ec3a39.png?ex=6a7ba47a&is=6a7a52fa&hm=d250d47dbf6ba9d12e8d39ed16f6b51d678d7c1efa3db2815f53f4bd83aeee47&" alt="Kawã Ribeiro Banner" width="100%" style="border-radius: 12px; margin-bottom: 15px;" />
 
   <!-- EFEITO TYPING TERMINAL -->
   <a href="https://git.io/typing-svg">
