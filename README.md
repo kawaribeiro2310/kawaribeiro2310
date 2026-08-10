@@ -1,14 +1,16 @@
 <div align="center">
 
-  <!-- BANNER -->
-  <img src="https://cdn.discordapp.com/attachments/1510022770833100861/1536504124919517284/cd346b5f568400dda9975241c0ec3a39.png?ex=6a7ba47a&is=6a7a52fa&hm=d250d47dbf6ba9d12e8d39ed16f6b51d678d7c1efa3db2815f53f4bd83aeee47&" alt="Kawã Ribeiro Banner" width="100%" style="border-radius: 12px; margin-bottom: 15px;" />
+  <!-- BANNER DINÂMICO (GERADO VIA CÓDIGO) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=200&section=header&text=Kawã%20Ribeiro&fontSize=42&fontColor=0d1117&animation=fadeIn&stroke=00e5ff&strokeWidth=1" width="100%" alt="Header Kawã" />
 
   <!-- EFEITO TYPING TERMINAL -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=500&height=50&lines=System.Initialize();;Cybersecurity+%26+Dev;;Analista+de+Seguran%C3%A7a+J%C3%BAnior;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=500&height=40&lines=System.Initialize();;Cybersecurity+%26+Dev;;Analista+de+Seguran%C3%A7a+J%C3%BAnior;" alt="Typing SVG" />
   </a>
 
-  <!-- BADGES SUPERIORES -->
+  <br />
+
+  <!-- BADGES -->
   <p align="center">
     <a href="https://github.com/kawabujao?tab=repositories&sort=stargazers">
       <img src="https://img.shields.io/github/stars/kawaribeiro2310?color=00FF41&style=for-the-badge&logo=star&logoColor=000&label=STARS&labelColor=0d1117" alt="Stars" />
@@ -23,7 +25,7 @@
 
 <br />
 
-<!-- PAINEL PRINCIPAL DE INFORMAÇÕES -->
+<!-- PAINEL PRINCIPAL -->
 <table>
   <tr>
     <td width="55%" valign="top">
@@ -51,8 +53,8 @@
 
 <br />
 
-<!-- TECH STACK GRID -->
-<h2 align="center">🛠️ HARDWARE & SOFTWARE ARSENAL</h2>
+<!-- SKILLS -->
+<h2 align="center">🛠️ ARSENAL TÉCNICO</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -62,8 +64,8 @@
 
 <br />
 
-<!-- ESTATÍSTICAS E DASHBOARD -->
-<h2 align="center">📊 SYSTEM ANALYTICS</h2>
+<!-- ESTATÍSTICAS -->
+<h2 align="center">📊 DASHBOARD DO GITHUB</h2>
 
 <div align="center">
   <img height="185em" src="https://github-readme-stats.vercel.app/api?username=kawaribeiro2310&show_icons=true&theme=cyberpunk&hide_border=true&icon_color=00FF41&text_color=ffffff&title_color=00E5FF&bg_color=0d1117" />
@@ -72,18 +74,11 @@
 
 <br />
 
-<!-- STREAK & MATRIX ACTIVITY -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kawaribeiro2310&theme=cyberpunk&hide_border=true&background=0d1117&stroke=00FF41&ring=00E5FF&fire=00FF41&currStreakLabel=00E5FF" alt="GitHub Streak" width="90%" />
-</p>
-
-<br />
-
-<!-- FOOTER / CONTATO -->
+<!-- CONTATO -->
 <hr style="border: 0.5px solid #00FF41;" />
 
 <div align="center">
-  <h3>📡 OPEN COMMUNICATION CHANNELS</h3>
+  <h3>📡 CONTATO / CANAIS</h3>
   <br />
   <a href="https://www.linkedin.com/in/kaw%C3%A3-ribeiro-alves-5a9bbb364" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
