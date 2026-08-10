@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- BANNER DINÂMICO (GERADO VIA CÓDIGO) -->
+  <!-- BANNER DINÂMICO -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=200&section=header&text=Kawã%20Ribeiro&fontSize=42&fontColor=0d1117&animation=fadeIn&stroke=00e5ff&strokeWidth=1" width="100%" alt="Header Kawã" />
 
   <!-- EFEITO TYPING TERMINAL -->
@@ -68,8 +68,8 @@
 <h2 align="center">📊 DASHBOARD DO GITHUB</h2>
 
 <div align="center">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=kawaribeiro2310&show_icons=true&theme=cyberpunk&hide_border=true&icon_color=00FF41&text_color=ffffff&title_color=00E5FF&bg_color=0d1117" />
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawaribeiro2310&layout=compact&langs_count=6&theme=cyberpunk&hide_border=true&text_color=ffffff&title_color=00E5FF&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=kawaribeiro2310&show_icons=true&theme=tokyonight&hide_border=true&icon_color=00FF41&text_color=ffffff&title_color=00E5FF" alt="Stats" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kawaribeiro2310&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&text_color=ffffff&title_color=00E5FF" alt="Langs" />
 </div>
 
 <br />
